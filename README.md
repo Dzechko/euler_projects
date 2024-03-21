@@ -1,1 +1,1 @@
-math problem solvin using python
+math problem solving using python
